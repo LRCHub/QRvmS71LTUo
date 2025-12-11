@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "モノローグ",
+  "base_artist": "Kiro Akiyama",
+  "createdAt": "2025-12-11T02:29:34.423857Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "モノローグ",
+      "artist": "Kiro Akiyama",
+      "has_synced": true,
+      "path": "select/01_モノローグ_Kiro_Akiyama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "モノローグ",
+      "artist": "秋山黄色",
+      "has_synced": true,
+      "path": "select/02_モノローグ_秋山黄色.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "C.C.モノローグ 2",
+      "artist": "C.C.",
+      "has_synced": false,
+      "path": "select/03_C.C.モノローグ_2_C.C..txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "C.C.モノローグ 3",
+      "artist": "C.C.",
+      "has_synced": true,
+      "path": "select/04_C.C.モノローグ_3_C.C..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ダイアローグ・モノローグ",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/05_ダイアローグ・モノローグ_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "C.C.モノローグ 4",
+      "artist": "C.C.",
+      "has_synced": false,
+      "path": "select/06_C.C.モノローグ_4_C.C..txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "モノローグ - Monologue",
+      "artist": "Kiro Akiyama",
+      "has_synced": true,
+      "path": "select/07_モノローグ_-_Monologue_Kiro_Akiyama.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "キミイロ モノローグ",
+      "artist": "Ayana Taketatsu",
+      "has_synced": false,
+      "path": "select/08_キミイロ_モノローグ_Ayana_Taketatsu.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "C.C.モノローグ 1",
+      "artist": "C.C. (ゆかな)",
+      "has_synced": false,
+      "path": "select/09_C.C.モノローグ_1_C.C._(ゆかな).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "C.C.モノローグ 3",
+      "artist": "C.C. (ゆかな)",
+      "has_synced": true,
+      "path": "select/10_C.C.モノローグ_3_C.C._(ゆかな).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モノローグ",
+      "artist": "Kiro Akiyama",
+      "has_synced": false,
+      "path": "select/pl_01_モノローグ_Kiro_Akiyama.txt"
+    }
+  ]
+}
